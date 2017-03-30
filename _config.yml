@@ -1,3 +1,4 @@
 markdown: redcarpet
-baseurl: /MyDSBlog/
+baseurl: /MyDSBlog
+port: 4444
 exclude: ['README.md']
